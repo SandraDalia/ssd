@@ -1,0 +1,96 @@
+
+/* ---------------------------------------Prima pagina-------------------------- -----------------------*/
+
+/* Navigation Bar */
+
+.navbar-brand{
+  font-family: 'Great Vibes', cursiveu;
+  padding-left: 1px;
+  padding-right: 20px;
+  font-weight: bolder;
+
+
+
+}
+.nav-item{
+  margin:1px 10px;
+}
+.nav-link{
+  font-family: 'Great Vibes', cursiveu;
+  font-weight:bolder;
+  font-size: 1.4rem;
+
+}
+.navbar-button{
+  height: 50px;
+  width: 50px;
+}
+
+/* Sub bara de navigatie */
+
+}
+#sub-navbar{
+padding:0 10px 10px 20px;
+font-weight: bold;
+  font-family: 'Italianno', cursive;
+  margin:10px auto;
+  background-color: #681313;
+
+  }
+
+
+
+   /* Title Prima pagina  */
+#Testimonials{
+  padding: 7% 15%;
+  color: #000;
+  background-color: #810000;
+  font-family: 'Italianno', cursive;
+  text-align: center;
+
+}
+.testimonial-image1{
+  width: 50%;
+  border-radius: 100%;
+margin:0px 50px;
+background-color: #810000;
+
+}
+.testimonial-image{
+  width: 50%;
+  border-radius: 100%;
+margin:0px 50px;
+background-color: #810000;
+
+}
+/* Pricing */
+#Pricing{
+    padding: 3% 6%;
+  text-align: center;
+  font-family: 'Italianno', cursive;
+  background-color:#810000;
+}
+.pricing-column{
+  padding: 4% 5%;
+}
+.pricing-images{
+  width: 100px;
+  height: 200px;
+  padding-right: 7%;
+}
+.pricing-h1{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.pricing-h5{
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.pricing-p{
+  font-size: 2rem;
+}
+.btn-pricing{
+
+
+  font-family: 'Roboto', sans-serif;
+}
